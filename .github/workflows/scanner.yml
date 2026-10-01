@@ -1,4 +1,4 @@
- name: V51 Trend Catcher
+name: V51 Trend Catcher
 on: workflow_dispatch
 jobs:
   scan:
