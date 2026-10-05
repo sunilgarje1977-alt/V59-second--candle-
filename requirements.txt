@@ -4,4 +4,6 @@ pandas
 requests
 websocket-client
 pytz
-numpy 
+numpy
+logzero
+pycryptodome
