@@ -1,9 +1,7 @@
-numpy
-pandas
-yfinance
-ta
 SmartApi-python
 pyotp
+pandas
 requests
 websocket-client
 pytz
+numpy 
