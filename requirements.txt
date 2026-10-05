@@ -1,7 +1,9 @@
-smartapi-python
+numpy
+pandas
+yfinance
+ta
+SmartApi-python
 pyotp
 requests
-pytz
-pycryptodome
 websocket-client
-logzero
+pytz
